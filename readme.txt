@@ -4,6 +4,9 @@
 This project is an **Automated Machine Learning Pipeline Web Application** designed to simplify the process of training, evaluating, and deploying machine learning models. The application provides an easy-to-use interface to preprocess data, train models, and fine-tune hyperparameters, making machine learning accessible to both beginners and experts.
 
 ---
+## App Output
+
+Check The App: https://mani-automl.streamlit.app/
 
 ## Features
 
