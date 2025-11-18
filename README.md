@@ -124,6 +124,6 @@ For questions or feedback, please reach out to:
 - **Name**: MANIKANDAN
 - **GitHub**: https://github.com/manikandanrock/
 
-
-
 Feel free to contribute to the project by submitting issues or pull requests!
+
+> 🧾 *Developed as part of 3rd Year Mini-Project, Department of AI & ML, VISTAS (2025).*
