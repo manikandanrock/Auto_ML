@@ -122,7 +122,8 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 For questions or feedback, please reach out to:
 - **Name**: MANIKANDAN
-- **Email**: MANI777KANDAN777@GMAIL.COM
 - **GitHub**: https://github.com/manikandanrock/
+
+
 
 Feel free to contribute to the project by submitting issues or pull requests!
